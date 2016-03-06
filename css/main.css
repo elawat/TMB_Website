@@ -32,6 +32,11 @@ color: #191919;
     background-color: #c2bdb9;
 }
 
+#imgProduct {
+    width: 100px;
+    height: 70px;
+}
+
 /*TMB*/
 
 .clearfix {
