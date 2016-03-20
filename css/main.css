@@ -41,6 +41,12 @@ color: #191919;
 display: block;
 }
 
+#projects_link {
+    padding: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+
 /*TMB*/
 
 .clearfix {
