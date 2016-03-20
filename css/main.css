@@ -37,6 +37,10 @@ color: #191919;
     height: 70px;
 }
 
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
 /*TMB*/
 
 .clearfix {

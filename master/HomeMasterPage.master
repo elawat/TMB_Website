@@ -1,6 +1,6 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/master/MainMasterPage.master" AutoEventWireup="true" CodeFile="HomeMasterPage.master.cs" Inherits="master_HomeMasterPage" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="HomeBody" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="BespokeBody" Runat="Server">
 
       <section id="main-slider" class="no-margin">
         <div class="carousel slide wet-asphalt">
@@ -57,7 +57,7 @@
         </a>
     </section><!--/#main-slider-->
 
-     <section id="services2" class="emerald">
+     <section id="services2" class="logo-yellow">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-6">
